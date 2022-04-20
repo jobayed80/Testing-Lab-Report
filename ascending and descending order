@@ -4,7 +4,7 @@
 
         /* get the number of entries */
         printf("Enter your input for n:");
-        scanf("%d", n);
+        scanf("%d", &n);
 
       
         for (i = 0; i < n; i++)
