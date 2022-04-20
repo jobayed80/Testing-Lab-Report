@@ -6,8 +6,8 @@
         printf("Enter your input for n:");
         scanf("%d", n);
 
-        #hint here
-        for (i = 0; i < n; i+)
+      
+        for (i = 0; i < n; i++)
                 scanf("%d", &data[i]);
 
         /* sort the given data in ascending order */
